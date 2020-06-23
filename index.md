@@ -13,3 +13,6 @@ als Schmuggler unterwegs war
 * rebellisch
 * zuverlässig
 * freiheitsliebend
+Wie Han Solo sagte:
+
+> Ich nehme nur von einem Befehle an und die sind von mir
