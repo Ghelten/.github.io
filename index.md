@@ -16,3 +16,5 @@ als Schmuggler unterwegs war
 Wie Han Solo sagte:
 
 > Ich nehme nur von einem Befehle an und die sind von mir
+
+<img src="https://upload.wikimedia.org/wikipedia/en/b/be/Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg"/>
