@@ -9,3 +9,7 @@ Nach der Gründung der Neuen Republik schloss er sich dieser an
 Mit Leia Organa gründete er zu dieser Zeit eine Familie und bekam einen Sohn, Ben Solo. 
 Später leitete er einen eigenen Rennstall  bis er schließlich wieder mit Chewbacca 
 als Schmuggler unterwegs war 
+## Was sind besondere Charaktereigenschaften
+* rebellisch
+* zuverlässig
+* freiheitsliebend
